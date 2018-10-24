@@ -25,7 +25,7 @@ This project is a part of my learning path with [Udacity Deep Learning Nanodegre
 
 3. Download the [human dataset](http://vis-www.cs.umass.edu/lfw/lfw.tgz).  Unzip the folder and place it in the repo, at location `path/to/dog-project/lfw`.  If you are using a Windows machine, you are encouraged to use [7zip](http://www.7-zip.org/) to extract the folder. 
 
-4. Make sure you have already installed the necessary Python packages according to the README in the program repository.
+4. Make sure you have already installed the necessary Python packages such as numpy, matplotlib, ... and especially [Pytorch](https://pytorch.org).
 
 5. Open a terminal window and navigate to the project folder. Open the notebook and follow the instructions.
 
