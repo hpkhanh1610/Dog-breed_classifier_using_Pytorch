@@ -10,7 +10,7 @@
 
 This project uses Convolutional Neural Networks (CNN) with Pytorch framework to classify dog breeds. Given an image of a dog, this algorithm will identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed. And if there's no dog nor human, an error will be shown telling us to check the input image.
 
-This project is a part of my learning path with Udacity Deep Learning Nanodegree.
+This project is a part of my learning path with [Udacity Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101).
 
 ![Sample Output][image1]
 
