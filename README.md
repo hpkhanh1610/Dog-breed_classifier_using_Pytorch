@@ -4,10 +4,11 @@
 [image2]: ./images/vgg16_model.png "VGG-16 Model Layers"
 [image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
 
+# Dog-breed Classifier using Pytorch
 
 ## Project Overview
 
-This project uses Convolutional Neural Networks (CNN) to classify dog breeds. Given an image of a dog, this algorithm will identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed. And if there's no dog nor human, an error will be shown.
+This project uses Convolutional Neural Networks (CNN) with Pytorch framework to classify dog breeds. Given an image of a dog, this algorithm will identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed. And if there's no dog nor human, an error will be shown telling us to check the input image.
 
 This project is a part of my learning path with Udacity Deep Learning Nanodegree.
 
@@ -27,9 +28,4 @@ This project is a part of my learning path with Udacity Deep Learning Nanodegree
 4. Make sure you have already installed the necessary Python packages according to the README in the program repository.
 
 5. Open a terminal window and navigate to the project folder. Open the notebook and follow the instructions.
-	
-	```
-		jupyter notebook dog_app.ipynb
-	```
-
 
