@@ -12,7 +12,7 @@ This project uses Convolutional Neural Networks (CNN) with Pytorch framework to 
 
 There are 2 parts when using CNN:
 1. I created my own architecture based on AlexNet's and trained from scratch. My target is that the accuracy is at least 10% due to time and computational limit.
-2. I used transfer learning (```inception_v3 model``` in my work) and replace the last fully-connected layer with my new layer of 133 classes. Then I freezed all parameters and trained only this new layer's parameters only.
+2. I used transfer learning (```inception_v3 model``` in my work) and replace the last fully-connected layer with my new layer of 133 classes. Then I freezed all parameters and trained only this new layer's parameters only. My target in this case is the accuracy achieved at least 80%.
 
 This project is a part of my learning path with [Udacity Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101).
 
